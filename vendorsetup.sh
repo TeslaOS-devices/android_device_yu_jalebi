@@ -1,2 +1,2 @@
-add_lunch_combo cm_jalebi-eng
-add_lunch_combo cm_jalebi-userdebug
+add_lunch_combo tesla_jalebi-eng
+add_lunch_combo tesla_jalebi-userdebug

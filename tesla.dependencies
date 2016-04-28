@@ -1,18 +1,18 @@
 [
   {
-    "repository": "Fire-Qcom/android_device_cyanogen_msm8916-common",
+    "repository": "FireLord1/android_device_cyanogen_msm8916-common",
     "target_path": "device/cyanogen/msm8916-common"
-    "branch": "tesla-os-6.0.1"
+    "branch": "cm-13.0"
   },
   {
-    "repository": "Fire-Qcom/android_kernel_cyanogen_msm8916",
+    "repository": "FireLord1/android_kernel_cyanogen_msm8916",
     "target_path": "kernel/cyanogen/msm8916"
-    "branch": "tesla-os-6.0.1"
+    "branch": "temasek-6.0.1"
   },
   {
-    "repository": "Fire-Qcom/android_vendor_yu_jalebi",
+    "repository": "FireLord1/android_vendor_yu_jalebi",
     "target_path": "vendor/yu/jalebi"
-    "branch": "tesla-os-6.0.1"
+    "branch": "cm-13.0"
   },
   {
     "repository": "CyanogenMod/android_device_qcom_common",
